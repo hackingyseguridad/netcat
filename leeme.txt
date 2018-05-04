@@ -1,0 +1,8 @@
+
+
+
+
+\ x13 \ x37	ID de transacción
+\ x01 \ x00 \ x00 \ x01 \ x00 \ x00 \ x00 \ x00 \ x00 \ x00	Banderas para consulta estándar, recursiva, de 1 pregunta
+\ x13google-public-dns-a \ x06google \ x03com \ x00	Cadena de consulta, terminada en nulo, cada sección comienza con el número de longitud
+\ x00 \ x01 \ x00 \ x01	Tipo de consulta (A) y clase (IN)
