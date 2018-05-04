@@ -1,5 +1,5 @@
 
-
+Transaction ID "b6 4d" at 002c.
 
 
 \ x13 \ x37	ID de transacción
