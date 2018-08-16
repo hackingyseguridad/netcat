@@ -2,7 +2,8 @@
 # Servidor web basico con netcat
 # Puerto 80 TCP
 # Carpeta de la pagina web /var/www/html/index.html
-# otro servidor web basico con Python python -m SimpleHTTPServer 8080
+# otro servidor web basico con Python python -m SimpleHTTPServer 80
+# otro servidor web basico con PHP php -S 0.0.0.0:80
 # www.hackingyseguridad.com
 #
 
